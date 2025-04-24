@@ -69,6 +69,12 @@
 - `Discord` : 디스코드를 통해 배포 성공, 실패 여부를 확인할 수 있도록 활용했습니다.
 <br/>
 
+### [IDE 및 테스트]
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-40AEF0?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/PostMan-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
+- `IntelliJ` : IntelliJ를 활용하여 백엔드 작업을 진행했습니다.
+- `Visual Studio Code` : Visual Studio Code를 활용하여 프론트엔드 작업을 진행했습니다.
+- `PostMan`, `Swagger` : PostMan 과 Swagger를 활용하여 api 통신 테스트 및 문서화 작업을 진행했습니다.
+
  ### [Git 흐름 전략]
 각각의 기능을 담당하여 프로젝트를 진행하고자 [ Git Flow 방식 ] 을 사용했습니다.
 페이지 별/ 기능 별 브랜치를 만들고 각자 작업 브랜치를 따로 생성하여, PR 및 Merge를 진행합니다.
@@ -102,7 +108,7 @@
 ### [프로젝트 기간] : 2025.03.11. ~ 2025.4.25.
 <br/>
 
-### [작업 문화]
+### 작업물 관리
 #### 📍 Google Docs
 프로젝트의 전반적인 내용과 작업 과정등을 google docs에 담아서 관리했습니다.
 ![Google Docs](https://docs.google.com/spreadsheets/d/1cz6tOv7gIxSM5QyFZ38rE_gv14Fgrxe004PtK6xNupc/edit?usp=sharing)
