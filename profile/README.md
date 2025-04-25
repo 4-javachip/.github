@@ -162,8 +162,8 @@
 <p align="right"><a href="#top">(⬆️ Top)</a></p>
 
 ## <span id="role">5. 역할 분담</span>
-<img width="800" alt="front" src="https://github.com/user-attachments/assets/e947c6a2-f750-40ec-90ca-484180065b99">
-<img width="800" alt="back" src="https://github.com/user-attachments/assets/36af7137-e7bd-4016-858b-53366b3099f2">
+<img width="800" alt="front" src="https://github.com/user-attachments/assets/ed0b5875-d10e-4e98-9b03-a18f1cf0b12e">
+<img width="800" alt="back" src="https://github.com/user-attachments/assets/f3141db5-4b35-4aa4-b604-720955c6b2e3">
 
 <br/>
 <p align="right"><a href="#top">(⬆️ Top)</a></p>
@@ -174,6 +174,13 @@
 <img width="500" alt="ui" src="https://github.com/user-attachments/assets/ab956da6-23b6-4493-bf3c-fe570892689b">
 <img width="500" alt="ui" src="https://github.com/user-attachments/assets/c45c3702-2e3f-4bb7-bb7e-8be6ddf9e2ef">
 <img width="500" alt="ui" src="https://github.com/user-attachments/assets/63d7579f-b479-4b79-9a42-c05874ca5b9d">
+<img width="500" alt="ui" src="https://github.com/user-attachments/assets/6ea9f7a1-8e87-42e8-8152-0eadb12f16a9">
+<img width="500" alt="ui" src="https://github.com/user-attachments/assets/4d930112-c1e7-46ce-84ab-2de775ec598f">
+<img width="500" alt="ui" src="https://github.com/user-attachments/assets/5f34b22c-1c4d-4151-b440-06608756cb58">
+<img width="500" alt="ui" src="https://github.com/user-attachments/assets/8e12ecd9-0674-4ba3-b3f3-0ddf7352fdbb">
+<img width="500" alt="ui" src="https://github.com/user-attachments/assets/4116c48d-af9f-4e45-bfdd-d71cce46e71b">
+<img width="500" alt="ui" src="https://github.com/user-attachments/assets/ce335678-f8d5-40d9-b6ab-1a50a3fec1a1">
+<img width="500" alt="ui" src="https://github.com/user-attachments/assets/9e8bbf20-5b59-4092-aa99-7b25cc27054f">
 
 <br/>
 <p align="right"><a href="#top">(⬆️ Top)</a></p>
