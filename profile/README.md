@@ -110,7 +110,7 @@
 ### 작업물 관리
 #### 📍 Google Docs
 프로젝트의 전반적인 내용과 작업 과정등을 google docs에 담아서 관리했습니다.
-![Google Docs](https://docs.google.com/spreadsheets/d/1cz6tOv7gIxSM5QyFZ38rE_gv14Fgrxe004PtK6xNupc/edit?usp=sharing)
+[🔗 Google Docs](https://github.com/user-attachments/files/19907683/6.1.4.pdf)
 <br/>
 
 #### 📍 Notion 회고
