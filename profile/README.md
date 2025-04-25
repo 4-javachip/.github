@@ -161,8 +161,8 @@
 <p align="right"><a href="#top">(⬆️ Top)</a></p>
 
 ## <span id="role">5. 역할 분담</span>
-<img width="800" alt="front" src="https://github.com/user-attachments/assets/ed0b5875-d10e-4e98-9b03-a18f1cf0b12e">
-<img width="800" alt="back" src="https://github.com/user-attachments/assets/f3141db5-4b35-4aa4-b604-720955c6b2e3">
+<img width="800" alt="front" src="https://github.com/user-attachments/assets/52bd60a9-95d5-4de3-80d0-66bcf169685e">
+<img width="800" alt="back" src="https://github.com/user-attachments/assets/208912aa-30cb-4d75-9024-1e78ecda177a">
 
 <br/>
 <p align="right"><a href="#top">(⬆️ Top)</a></p>
@@ -190,27 +190,27 @@
 |[회원가입]()|[소셜 로그인]()|
 |:-:|:-:|
 |<img width="390px" alt="회원가입" src="https://github.com/user-attachments/assets/7bc244f6-20c5-4243-8818-b90a4616701e">|<img width="390px" alt="소셜 로그인" src="https://github.com/user-attachments/assets/d6bd6c8b-b736-45d5-824d-bc7869a812b2">|
-|설명|설명|
+|회원가입은 로컬, 소셜 회원가입이 가능합니다.|소셜 로그인 시 간편하게 로그인이 가능합니다.|
 
 |[상품 검색]()|[상품 카테고리, 무한 스크롤]()|[상품 정렬]()
 |:-:|:-:|:-:|
 |<img width="300px" alt="상품검색" src="https://github.com/user-attachments/assets/0a27c976-c0db-4435-b079-2bdb06d5736e">|<img width="300px" alt="상품 카테고리 무한스크롤" src="https://github.com/user-attachments/assets/26817beb-539c-4bac-a14c-85fb6da5500d">|<img width="300px" alt="상품 정렬" src="https://github.com/user-attachments/assets/a4aa0846-630c-4c08-933b-aa83bc5abd47">|
-|설명|설명||설명|
+|키워드를 통해 상품을 검색할 수 있습니다.|카테고리별로 상품을 조회할 수 있고, 사용자 경험을 위해 무한 스크롤을 적용했습니다.|최신순, 가격순, 추천순으로 상품 필터링이 가능합니다.|
 
 |[상품 상세 & 리뷰]()|[리뷰 등록]()|
 |:-:|:-:|
 |<img width="390px" alt="리뷰" src="https://github.com/user-attachments/assets/24c43c1f-180b-48c6-b007-2b8dd27d31bd">|<img width="390px" alt="리뷰" src="https://github.com/user-attachments/assets/28fa7eb8-e985-4662-8691-d9d953de01fc">|
-|설명|설명|
+|상품 상세 셜명과 해당 상품의 리뷰를 확인할 수 있습니다.|사용자가 구매한 상품에 대한 리뷰를 등록할 수 있습니다.|
 
 |[찜하기]()|[장바구니]()|
 |:-:|:-:|
 |<img width="390px" alt="찜" src="https://github.com/user-attachments/assets/b817a6aa-fc83-4c5a-853a-2912b12139fe">|<img width="390px" alt="장바구니" src="https://github.com/user-attachments/assets/724dd1f1-4791-4828-83a2-d14a6dff4bbd">|
-|설명|설명|
+|원하는 상품을 찜 기능을 통해 내가 찜한 상품들을 볼 수 있습니다.|구매하고 싶은 상품들을 장바구니에 담아서 관리 할 수 있습니다.|
 
 |[배송지]()|[주문&결제]()|
 |:-:|:-:|
 |<img width="390px" alt="배송지" src="https://github.com/user-attachments/assets/645c0fd7-3e3c-4eb7-b99b-ff26dbdf62f0">|<img width="390px" alt="주문결제" src="https://github.com/user-attachments/assets/9927f26f-2105-44b6-b582-ad1a105efb5c">|
-|설명|설명|
+|배송지 설정 및 관리를 할 수 있습니다.|상품을 주문 하고 Toss Payments를 통해 결제를 할 수 있습니다.|
 
 <br/>
 
