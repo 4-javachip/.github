@@ -218,10 +218,11 @@
 
 ### [소셜 로그인]
 
-내용 3
+- kakao, google 소셜 로그인 기능 구현
 <br/>
 
 ### [상품 조회]
+![image](https://github.com/user-attachments/assets/fb5d0925-ea14-4f62-9723-366c8de8a476)
 
 - 키워드를 통한 검색 기능 구현
 - Query DSL을 활용한 검색 기능 구현
