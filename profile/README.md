@@ -28,9 +28,8 @@
 4. [주요 기능](#mainfeat)
 5. [역할분담](#role)
 6. [UI](#ui)
-7. [페이지 기능](#pageinfo)
-8. [핵심 기능](#issue)
-9. [느낀점](#impression)
+7. [기능](#pageinfo)
+8. [느낀점](#impression)
 </div>
 </details>
 <br/>
@@ -185,54 +184,40 @@
 <br/>
 <p align="right"><a href="#top">(⬆️ Top)</a></p>
 
-## <span id="pageinfo">7. 페이지 기능</span>
+## <span id="pageinfo">7. 기능 소개</span>
 
 ### 1) 페이지 기능
-|[기능1]()| [기능2]()|[기능3]()|
-|:-:|:-:|:-:|
-|<img width="390px;" alt="기능1" src=""> |<img width="390px;" alt="기능2" src="">|<img width="390px;" alt="기능3" src="">|
-
-|[기능4]()|[기능5]()|
+|[회원가입]()|[소셜 로그인]()|
 |:-:|:-:|
-|<img width="390px;" alt="기능4" src="">|<img width="390px;" alt="기능5" src="">|
+|<img width="390px" alt="회원가입" src="https://github.com/user-attachments/assets/7bc244f6-20c5-4243-8818-b90a4616701e">|<img width="390px" alt="소셜 로그인" src="https://github.com/user-attachments/assets/d6bd6c8b-b736-45d5-824d-bc7869a812b2">|
+|설명|설명|
+
+|[상품 검색]()|[상품 카테고리, 무한 스크롤]()|[상품 정렬]()
+|:-:|:-:|:-:|
+|<img width="300px" alt="상품검색" src="https://github.com/user-attachments/assets/0a27c976-c0db-4435-b079-2bdb06d5736e">|<img width="300px" alt="상품 카테고리 무한스크롤" src="https://github.com/user-attachments/assets/26817beb-539c-4bac-a14c-85fb6da5500d">|<img width="300px" alt="상품 정렬" src="https://github.com/user-attachments/assets/a4aa0846-630c-4c08-933b-aa83bc5abd47">|
+|설명|설명||설명|
+
+|[상품 상세 & 리뷰]()|[리뷰 등록]()|
+|:-:|:-:|
+|<img width="390px" alt="리뷰" src="https://github.com/user-attachments/assets/24c43c1f-180b-48c6-b007-2b8dd27d31bd">|<img width="390px" alt="리뷰" src="https://github.com/user-attachments/assets/28fa7eb8-e985-4662-8691-d9d953de01fc">|
+|설명|설명|
+
+|[찜하기]()|[장바구니]()|
+|:-:|:-:|
+|<img width="390px" alt="찜" src="https://github.com/user-attachments/assets/b817a6aa-fc83-4c5a-853a-2912b12139fe">|<img width="390px" alt="장바구니" src="https://github.com/user-attachments/assets/724dd1f1-4791-4828-83a2-d14a6dff4bbd">|
+|설명|설명|
+
+|[배송지]()|[주문&결제]()|
+|:-:|:-:|
+|<img width="390px" alt="배송지" src="https://github.com/user-attachments/assets/645c0fd7-3e3c-4eb7-b99b-ff26dbdf62f0">|<img width="390px" alt="주문결제" src="https://github.com/user-attachments/assets/9927f26f-2105-44b6-b582-ad1a105efb5c">|
+|설명|설명|
 
 <br/>
 
-<br/>
-<p align="right"><a href="#top">(⬆️ Top)</a></p>
-
-## <span id="issue">8. 핵심 기능</span>
-
-### [리뷰]
-
-- 병렬 라우팅(ParallelRoutes) 처리로 상품 설명 페이지와 리뷰 페이지를 동시에 렌더링하여 로딩을 최소화하고, Skeleton UI를 통해 유저의 시각적 피드백을 제공해 UX 극대화
-- 손쉬운 이미지 관리 기능 구현을 위한 S3 적용
-<br/>
-
-### [주문&결제]
-
-- Toss Payments API를 활용한 결제 시스템 구축
-- 가상계좌 결제 후 Toss Webhook을 통해 결제 완료 여부를 자동 반영
-- '주문 생성' - '결제 요청' - '결제 승인' - '주문 상태 업데이트' 흐름에 따라 구현하여, UX 개선 및 주문 실패 내역도 저장해 추후 데이터 분석에 활용할 수 있도록 설계
-<br/>
-
-### [소셜 로그인]
-
-- kakao, google 소셜 로그인 기능 구현
-<br/>
-
-### [상품 조회]
-![image](https://github.com/user-attachments/assets/fb5d0925-ea14-4f62-9723-366c8de8a476)
-
-- 키워드를 통한 검색 기능 구현
-- Query DSL을 활용한 검색 기능 구현
-- 가격순, 최신순 추천순 등 필터에 따른 정렬 처리
-- 인덱싱 처리를 통한 성능 향상
-<br/>
 <p align="right"><a href="#top">(⬆️ Top)</a></p>
 
 
-## <span id="impression">9. 느낀 점</span>
+## <span id="impression">8. 느낀 점</span>
 
 ### 🐱 수현 
 - 처음 next.js와 ts 를 사용하면서 어려운 점도 많고 부족한 점도 많았지만 많이 성장 할 수 있는 기회가 되었습니다.
