@@ -107,6 +107,11 @@
 ### [프로젝트 기간] : 2025.03.11. ~ 2025.4.25.
 ### 작업물 관리
 
+#### 📍 Google Docs
+ 프로젝트의 전반적인 내용과 작업 과정등을 google docs에 담아서 관리했습니다.
+ [🔗 Google Docs](https://github.com/user-attachments/files/19932522/6.1.4.pdf)
+ <br/>
+
 #### 📍 Notion 회고
 - 팀 노션에 동시 접속하여 [🔗 일일 회고](https://www.notion.so/1b65039f7f178083850ed3821f6e37ee)를 진행하고 진행사항을 파악했습니다.
 
