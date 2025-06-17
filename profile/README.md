@@ -5,7 +5,7 @@
 
 ## 소개 및 개요
 
-- 프로젝트 기간 : 2025.03.11. ~ 2025.4.25.
+- 프로젝트 기간 : 2025.03.11. ~ 2025.04.25.
 - 배포 URL : [🔗 Starbucks Store](https://starbucks-store.shop/)
 
 - Test ID / PW : abcde@naver.com / qwerty1234!
